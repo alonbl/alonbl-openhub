@@ -80,6 +80,16 @@ def main() -> None:
     with open("out/positions.json", "w") as f:
         f.write(json.dumps(positions))
 
+    with open("out/positions.txt", "w") as f:
+        for entry in sorted(positions, key=lambda a: a["project"]["name"]):
+            f.write(
+                "\n".join((
+                    f"{entry['project']['name']}",
+                    f"{'':10}{'Description:':15}{entry['project']['description']}",
+                    f"{'':10}{'Commits:':15}{entry.get('commits') or -1}",
+                )) + "\n"
+            )
+
 
 if __name__ == "__main__":
     main()

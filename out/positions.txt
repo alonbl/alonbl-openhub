@@ -1,0 +1,1007 @@
+AES Crypt
+          Description:   AES Crypt is a file encryption software available on several operating systems that uses the industry standard Advanced Encryption Standard (AES) to easily and securely encrypt files.
+          Commits:       9
+AcerTabKernel
+          Description:   Kernel Source for Acer A100 & Acer A500 Tablets
+          Commits:       32
+AirKernel_NS_JBN
+          Description:   Air Kernel - JBN for Nexus S
+          Commits:       32
+Aircrack-NG
+          Description:   Aircrack-ng is a complete suite of tools to assess WiFi network security.
+
+It focuses on different areas of WiFi security:
+
+- Monitoring: Packet capture and export of data to text files for further processing by third party tools
+- Attacking: Replay attacks, deauthentication, fake access points and others via packet injection
+- Testing: Checking WiFi cards and driver capabilities (capture and injection)
+- Cracking: WEP and WPA PSK (WPA 1 and 2)
+
+All tools are command line which allows for heavy scripting. A lot of GUIs have taken advantage of this feature. It works primarily Linux but also Windows, OS X, FreeBSD, OpenBSD, NetBSD, as well as Solaris and even eComStation 2.
+          Commits:       5
+Android on Intel Platforms
+          Description:   Android Operating System for Intel Architecture (IA).
+          Commits:       -1
+Apache Maven 3
+          Description:   Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+          Commits:       -1
+Apache Mina SSHD
+          Description:   Apache SSHD is a 100% pure java library to support the SSH protocols on both the client and server side.
+This library is based on Apache MINA, a scalable and high performance asynchronous IO library.
+          Commits:       8
+Avionic Design Linux for Tegra
+          Description:   The l4t linux kernel from Avionic Design
+          Commits:       -1
+BlueZ
+          Description:   The overall goal of this project is to make an implementation of the Bluetooth wireless standards specifications for Linux. The code is licensed under the GNU General Public License (GPL) and is now included in the Linux 2.4 and Linux 2.6 kernel series.
+          Commits:       1
+Botan
+          Description:   A crypto library written in C++.
+          Commits:       3
+CIP Linux
+          Description:   The Civil Infrastructure Platform (CIP) aims to establish a “base layer” of industrial-grade tooling using the Linux kernel and other open source projects. This base layer will be available for use by developers creating software building blocks that meet safety, security, reliability and other requirements that are critical to industrial and civil infrastructure projects.
+          Commits:       32
+CXF
+          Description:   Apache CXF is an open source services framework. CXF helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS. These services can speak a variety of protocols such as SOAP, XML/HTTP, RESTful HTTP, or CORBA and work over a variety of transports such as HTTP, JMS or JBI.
+          Commits:       -1
+Carrefour
+          Description:   None
+          Commits:       32
+Casbin
+          Description:   Casbin authorization library and the official middlewares
+          Commits:       1
+Celadon
+          Description:   Open source Android software reference stack on Intel architecture
+          Commits:       -1
+Ceph Kernel Client
+          Description:   Ceph kernel client
+          Commits:       -1
+Chromium OS
+          Description:   Chromium OS is an open-source project that aims to build an operating system that provides a fast, simple, and more secure computing experience for people who spend most of their time on the web.
+          Commits:       -1
+Crypto++
+          Description:   None
+          Commits:       2
+Debian
+          Description:   Debian is a free operating system (OS) for your computer. An operating system is the set of basic programs and utilities that make your computer run. Debian uses the Linux and kFreeBSD kernels (the core of operating systems), but most of the basic OS tools come from the GNU project; hence the names GNU/Linux and GNU/kFreeBSD.
+          Commits:       26
+Device Mapper
+          Description:   The userspace portion of device mapper, a generic framework to map one block device into another with sector granularity. Device mapper forms the foundation of LVM2 and EVMS, software RAIDs, dm-crypt disk encryption, and offers additional features such as file-system snapshots.
+          Commits:       32
+EBU_mainline_public
+          Description:   None
+          Commits:       -1
+Endeavoru
+          Description:   HTC One X Tegra 3 kernel
+          Commits:       32
+Funtoo
+          Description:   Funtoo is a Gentoo Linux variant maintained by Daniel Robbins. Funtoo has its own git-based Portage tree that tracks the upstream Gentoo tree.
+          Commits:       -1
+GNU Libtool
+          Description:   GNU Libtool hides the complexity of using shared libraries behind a consistent, portable interface.   GNU Libtool ships with GNU libltdl, which hides the complexity of loading dynamic runtime libraries (modules) behind a consistent, portable interface.
+          Commits:       2
+GNexus-Kernel-SZ
+          Description:   None
+          Commits:       32
+GPGME
+          Description:   GnuPG Made Easy (GPGME) is a library designed to make access to GnuPG easier for applications. It provides a High-Level Crypto API for encryption, decryption, signing, signature verification and key management. Currently it uses GnuPG as its backend but the API isn't restricted to this engine; in fact we have already developed a backend for CMS (S/MIME).
+          Commits:       16
+Gentoo KDE overlay
+          Description:   Official Gentoo KDE overlay
+          Commits:       1
+Gentoo Linux
+          Description:   Gentoo Linux is a versatile and fast, completely free Linux distribution geared towards developers and network professionals. Unlike other distros, Gentoo Linux has an advanced package management system called Portage. Portage is a true ports system in the tradition of BSD ports, but is Python-based and sports a number of advanced features including dependencies, fine-grained package management, "fake" (OpenBSD-style) installs, safe unmerging, system profiles, virtual packages, config file management, and more.
+          Commits:       2077
+Gentoo Portage
+          Description:   The package management and distribution system for Gentoo Linux.
+          Commits:       1
+Gerrit Code Review
+          Description:   Web based code review and project management for Git based projects.
+
+Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system.
+
+Gerrit makes reviews easier by showing changes in a side-by-side display, and allowing inline comments to be added by any reviewer.
+
+Gerrit simplifies Git based project maintainership by permitting any authorized user to submit changes to the master Git repository, rather than requiring all approved changes to be merged in by hand by the project maintainer. This functionality enables a more centralized usage of Git.
+          Commits:       11
+Gerrit delete-project plugin
+          Description:   None
+          Commits:       1
+Gerrit gitiles plugin
+          Description:   None
+          Commits:       4
+Gerrit its-base plugin
+          Description:   None
+          Commits:       1
+Gerrit its-jira plugin
+          Description:   None
+          Commits:       1
+Gerrit replication plugin
+          Description:   None
+          Commits:       1
+Gerrit serviceuser plugin
+          Description:   None
+          Commits:       5
+Gitiles
+          Description:   None
+          Commits:       3
+GnuPG
+          Description:   GnuPG is the GNU project's complete and free implementation of the OpenPGP standard as defined by RFC2440 . GnuPG allows to encrypt and sign your data and communication, features a versatile key managment system as well as access modules for all kind of public key directories.
+          Commits:       17
+GnuTLS
+          Description:   GnuTLS is a secure communications library implementing the SSL and TLS protocols and technologies around them. It provides a simple C language application programming interface (API) to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and other required structures. It is aimed to be portable and efficient with focus on security and interoperability.
+          Commits:       55
+ICU for C/C++/Java
+          Description:   International Component for C/C++ and Java
+          Commits:       2
+IGEP Android ICS
+          Description:   Rowboat based implementation of Android ICS for IGEP Berlin/Paris with IGEP COM MODULE.
+          Commits:       -1
+IGEP Linux Kernel
+          Description:   Linux Kernel with support for IGEP-based boards.
+          Commits:       -1
+IREE
+          Description:   None
+          Commits:       -1
+Jenkins
+          Description:   Jenkins is a continuous integration server, allowing you to automatically monitor source repositories, build software and run tests.
+
+One-click installation and out-of-the-box cluster support make it easy to get started improving your software, or just giving you greater control of your daily task automation.
+
+With an extensive library of over 1300 plugins, Jenkins can be used to build, test, log, analyse, graph and notify you in a great number of different ways about your jobs.
+
+Founded by Kohsuke Kawaguchi  while at Sun in 2004, the Hudson project forked in January 2011 to become Jenkins, with Oracle Corporation continuing the development of Hudson, and the bulk of the Hudson community, including Kawaguchi, moving on to work on Jenkins.
+          Commits:       28
+Jenkins Gerrit Trigger Plugin
+          Description:   This plugin triggers builds on events from the Gerrit code review system by retrieving events from the Gerrit command "stream-events", so the trigger is pushed from Gerrit instead of pulled as scm-triggers usually are.
+
+Multiple builds can be triggered by one change-event, and one consolidated report is sent back to Gerrit.
+          Commits:       2
+KDE
+          Description:   KDE is a community of people dedicated to create a free and user-friendly computing experience.
+KDE develops three pillars of software:
+
+Plasma, one of the most popular desktop environments for Linux and BSD operating systems – adaptable to formfactors ranging from desktop PCs to smartphones.
+
+A loosely connected set of applications.
+
+KDE Frameworks which offer all necessary means to easily build all kinds of applications upon.
+          Commits:       88
+KDE Support Libraries
+          Description:   KDE support libraries, including wrappers for MS Windows and 3rdparty utilities.
+          Commits:       -1
+KEXI
+          Description:   KEXI is a visual database apps builder, part of the Calligra Suite. It can be used for designing database applications, inserting and editing data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects – tables, queries, forms, reports – are stored in the database, making it easy to share data and design. 
+
+More info https://userbase.kde.org/Kexi
+          Commits:       -1
+KVM
+          Description:   KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko. KVM also requires a modified QEMU although work is underway to get the required changes upstream.
+          Commits:       -1
+Kerrighed
+          Description:   Kerrighed is a Single System Image operating system for clusters. Kerrighed offers the view of a unique SMP machine on top of a cluster of standard PCs.
+
+The goals of Kerrighed are ease of use, high performance of applications, high availability of the cluster, efficient resources management, and high customizability of the operating system.
+
+Kerrighed is implemented as an extension to the Linux operating system (a set of modules and a patch to the kernel).
+          Commits:       -1
+Kodi
+          Description:   Kodi Media Center is a free cross-platform media-player jukebox and entertainment hub. Kodi is open source (GPL) software available for Linux, Mac OS X and iOS, Microsoft Windows  and Android operating-systems. Kodi can play a very complete spectrum of of multimedia formats, and featuring playlist, audio visualizations, slideshow, and weather forecast functions, together with a multitude of third-party plugins.
+          Commits:       1
+LTTng
+          Description:   LTTng, Linux Trace Toolkit Next Generation, is a kernel tracer for the Linux kernel.
+
+It helps solving real-life performance problems and issues caused by inter-process and kernel interactions.
+          Commits:       -1
+LibreELEC
+          Description:   LibreELEC is a non-profit fork of OpenELEC. Small and very fast booting, open source JeOS (Just enough Operating System). LibreELEC is a complete media center software suite for embedded systems and computers, as it comes with a pre-configured version of Kodi and optional third-party PVR backend software.
+          Commits:       -1
+Libtasn1
+          Description:   Tiny ASN.1 library.  Used by, e.g., GnuTLS.
+          Commits:       2
+Linux HPC
+          Description:   Linux Kernel branch where I maintain my machines and drivers.
+HP Jornada 600/620/660/680/690/710/720/728
+Nec Mobilepro 900/c, Dell Axim X30, Bsquare Maui.
+Also some drivers for the machines
+and Epson s1d13xxxfb.
+          Commits:       32
+Linux Kernel
+          Description:   The Linux kernel is a Unix-like computer operating system kernel. It is used world-wide: the Linux operating system is based on it and deployed on both traditional computer systems such as personal computers and servers, usually in the form of Linux distributions, and on various embedded devices such as routers, wireless access points, PBXes, set-top boxes, FTA receivers, smart TVs, PVRs and NAS appliances. The Android operating system for tablet computers, smartphones and smartwatches is also based atop the Linux kernel.
+
+(from Wikipedia)
+          Commits:       32
+Linux Kernel Library
+          Description:   Linux kernel library
+          Commits:       -1
+Linux NCR crypto api
+          Description:   A (rejected) attempt to add a crypto API to the Linux kernel with a reasonably complete functionality, especially including a way to protect key contents from user space.
+          Commits:       -1
+Linux NTFS file system support
+          Description:   The goals of this project are: create a new Linux kernel driver for the NTFS file system (v1.2 and later 3.0), user space utilities (e.g. format, ntfs check, etc.) and a library to avoid code duplication and provide access to NTFS to other GPLed programs
+          Commits:       -1
+Linux library operating system (libos)
+          Description:   Linux library operating system (libos)
+          Commits:       32
+Linwizard
+          Description:   The Linwizard project aims to port the Linux Kernel, all necessary drivers and (if possible) the OPIE/GPE Framework to the WM 2005 based PocketPC Phone HTC Wizard. The HTC Wizard is identical to Phones sold as XDA mini S, VPA II Compact or MDA Vario
+          Commits:       31
+MinGW - Minimalist GNU for Windows
+          Description:   MinGW: import libraries and header files for use with GCC to build native Windows applications; now with added extensions to the MSVC runtime to support C99 functionality.
+          Commits:       3
+MinGW-w64
+          Description:   The MinGW-w64 project provides a complete development and runtime environment for the GNU Compiler Collection (gcc) to support 32- and 64-bit Windows applications and libraries.
+          Commits:       3
+NTFS-3G
+          Description:   The NTFS-3G driver is an open source, freely available read/write NTFS driver for Linux, FreeBSD, OS X, and NetBSD. It provides safe and fast handling of the Windows XP, Windows Server 2003, Windows 2000 and Windows Vista file systems. Most POSIX file system operations are supported, with the exception of full file ownership and access right support.
+          Commits:       -1
+Nemo Mobile
+          Description:   Nemo Mobile is a Linux distribution for mobile devices. Nemo uses Mer as core and the UX is based on MeeGo Handset UX. The Nemo Mobile project continues the work started in the MeeGo Community Edition to create open community driven OS and apps. Currently initial Nemo port exists for Nokia N900 and N950 devices. Work is on-going to support Nokia N9. There is also some support for x86 based tablets/netbooks like ExoPC.
+          Commits:       32
+Nemomobile kernel-adaptation-n950-n9
+          Description:   Kernel adaptation git tree for N950 and N9 hardware adaptations for nemomobile
+          Commits:       32
+Nexus-grouper
+          Description:   Google Nexus Tablet
+          Commits:       32
+Nitrokey
+          Description:   Nitrokey is an open source USB key to enable secure encryption and signing of data. The secret keys are always stored inside the Nitrokey which protects against malware (such as computer viruses) and attackers. A user-chosen PIN and a tamper-proof smart card protect the Nitrokey in case of loss and theft. The hardware and software of Nitrokey are available as open source, free software and open hardware which enables independent parties to verify the security of the device. Nitrokey is supported on Microsoft Windows, Linux, and Mac OS X.
+          Commits:       -1
+Oniro Project
+          Description:   Oniro is an Eclipse Foundation project focused on the development of a distributed open source operating system for consumer devices, regardless of the brand, model, make. 
+Oniro is a transparent, vendor-neutral, OpenHarmony compatible alternative to established IoT and edge operating systems.
+Designed with modularity in mind, Oniro offers greater levels of flexibility and application portability across the broad spectrum of consumer and IoT devices — from tiny embedded sensors and actuators, to feature rich smart appliances and mobile companions.
+          Commits:       -1
+Open IPMI
+          Description:   The Open IPMI project aims to develop an open code base to allow access to platform information using Intelligent Platform Management Interface (IPMI).
+          Commits:       -1
+OpenCT
+          Description:   OpenCT implements drivers for several smart card readers. It comes as driver in ifdhandler format for PC/SC-Lite, as CT-API driver, or as a small and lean middleware, so applications can use it with minimal overhead. OpenCT also has a primitive mechanism to export smart card readers to remote machines via tcp/ip.
+          Commits:       85
+OpenEZX
+          Description:   The OpenEZX project tries to gather information about the Linux-based Motorola EZX phone platform (mainly the A780, E680 and E680i phones).
+
+It further tries to provide a 100% free software stack for those phones, especially a way to avoid any proprietary filesystem and/or device drivers. It also aims to provide a current (2.6.x) kernel with all required hardware support for the EZX phones.
+          Commits:       -1
+OpenPandora-Console
+          Description:   The OpenPandora is a open source Linux based portable device.
+
+The project publishes code and scripts for the build systems and open source code for the device firmware and utilities.
+          Commits:       32
+OpenPhoenux/GTA04 kernel
+          Description:   http://projects.goldelico.com/p/gta04-kernel/
+          Commits:       -1
+OpenRC
+          Description:   An OS-agnostic Run Control system, derived from Gentoo Linux's baselayout. Works on Linux, FreeBSD and NetBSD.
+          Commits:       1
+OpenSC
+          Description:   OpenSC provides a set of libraries and utilities to access smart cards. Its main focus is on cards that support cryptographic operations, and facilitate their use in security applications such as mail encryption, authentication, and digital signature. OpenSC implements the PKCS#11 API so applications supporting this API such as Mozilla Firefox and Thunderbird can use it. OpenSC implements the PKCS#15 standard and aims to be compatible with every software that does so, too.
+          Commits:       141
+OpenSC (fork)
+          Description:   Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+          Commits:       136
+OpenSC-build
+          Description:   None
+          Commits:       108
+OpenSSL
+          Description:   OpenSSL is a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is also a general-purpose cryptography library.
+
+OpenSSL is licensed under an Apache-style license, which basically means that you are free to get and use it for commercial and non-commercial purposes subject to some simple license conditions.
+          Commits:       6
+OpenStack
+          Description:   Open source, open standards cloud. 
+
+Innovative, open source cloud computing software for building reliable cloud infrastructure.
+          Commits:       -1
+OpenVPN
+          Description:   OpenVPN is a robust and highly configurable VPN (Virtual Private Network) daemon which can be used to securely link two or more private networks using an encrypted tunnel over the Internet. OpenVPN's principal strengths include wide cross-platform portability, excellent stability, support for dynamic IP addresses and NAT, adaptive link compression, single TCP/UDP port usage, a modular design that offloads most crypto tasks to the OpenSSL library, and relatively easy installation that in most cases doesn't require a special kernel module.
+          Commits:       193
+OpenVPN GUI (Legacy)
+          Description:   OpenVPN GUI is a graphical frontend for OpenVPN running on Windows 2000/XP/Vista/7. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
+          Commits:       -1
+Openmoko
+          Description:   OpenMoko is an Open Source project to create the world's first free mobile phone operating system. The Neo1973 from FIC is the first of many phones that OpenMoko will run on.
+          Commits:       -1
+Openstack all repositories
+          Description:   All Github Openstack repositories
+          Commits:       7
+Patternfly
+          Description:   The PatternFly open interface project was created to promote design commonality and improved user experience across enterprise IT products and applications.
+          Commits:       -1
+Perseus-UNIVERSAL5410
+          Description:   This is a clean kernel glued together upon Samsung's last public branch of android-exynos-3.4 with sources provided by the OSRC releases. The OSRC release has been stripped clean of all non-i9500 related code and sourced, as much as possible through the original patches.
+          Commits:       32
+Pinentry
+          Description:   This is a collection of simple PIN or passphrase entry dialogs which utilize the Assuan protocol as described by the aegypten project; see http://www.gnupg.org/aegypten/ for details.
+          Commits:       1
+Pony Mail
+          Description:   Pony Mail is a web-based mail archive browser licensed under the Apache License v/2.0 and built to scale to millions of archived messages with hundreds of requests per second.
+          Commits:       -1
+Popcornkernel-Tuna
+          Description:   None
+          Commits:       32
+Python Unidecode
+          Description:   It often happens that you have text data in Unicode, but you need to represent it in ASCII.
+
+In most of these examples you could represent Unicode characters as "???" or "\15BA\15A0\1610", to mention two extreme cases. But that's nearly useless to someone who actually wants to read what the text says.
+
+What Unidecode provides is a middle road: function unidecode() takes Unicode data and tries to represent it in ASCII characters (i.e., the universally displayable characters between 0x00 and 0x7F), where the compromises taken when mapping between two character sets are chosen to be near what a human with a US keyboard would choose.
+          Commits:       -1
+QCA
+          Description:   Qt Cryptographic Architecture
+          Commits:       88
+Qualcomm Kernel Tree for MSM/QSD family and Android 4.4
+          Description:   This project has been established to help submit Linux kernel patches for Qualcomm MSM and FSM support and other enhancements, to upstream kernel projects including kernel.org. It is expected that code in this project will be derived from code in the Linux Base Enablement and Android Enablement projects, but will be based on different upstream trees.
+          Commits:       -1
+RESTEasy
+          Description:   RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. JAX-RS is a new JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol.
+
+RESTEasy can run in any Servlet container, but tighter integration with the JBoss Application Server is also available to make the user experience nicer in that environment. While JAX-RS is only a server-side specification, RESTEasy has innovated to bring JAX-RS to the client through the RESTEasy JAX-RS Client Framework. This client-side framework allows you to map outgoing HTTP requests to remote servers using JAX-RS annotations and interface proxies.
+          Commits:       1
+Replicant
+          Description:   Replicant is a distribution of Android that is 100% free software. Replicant intents to replace proprietary hardware drivers required on some phones with free software / open source drivers.
+          Commits:       -1
+S.A.R.A. LSM
+          Description:   S.A.R.A. LSM
+          Commits:       32
+SGH-Krait
+          Description:   Samsung Krait Kernels
+          Commits:       32
+SPURV
+          Description:   It's now possible to run Android applications in the same graphical environment as regular Wayland Linux applications with full 3D acceleration.
+
+Running Android has some advantages compared to native Linux applications, for example with regard to the availability of applications and application developers.
+
+For current non-Android systems, this work enables a path forward to running Android applications in the same graphical environment as traditional non-Android applications are run.
+          Commits:       32
+Smack LSM
+          Description:   Smack is the the Simplified Mandatory Access Control Kernel. Smack is a kernel based implementation of mandatory access control that includes simplicity in its primary design goals.
+          Commits:       -1
+SoftHSMv2
+          Description:   SoftHSM is an implementation of a cryptographic store accessible through a PKCS #11 interface. You can use it to explore PKCS #11 without having a Hardware Security Module. It is being developed as a part of the OpenDNSSEC project. SoftHSM uses Botan for its cryptographic operations.
+          Commits:       7
+Sound Open Firmware
+          Description:   Sound Open Firmware is an open source community that provides an open source audio DSP firmware and SDK for audio or signal processing on modern DSPs.
+          Commits:       32
+SparkFun_u-blox_GNSS_Arduino_Library
+          Description:   An Arduino library which allows you to communicate seamlessly with the full range of u-blox GNSS modules
+          Commits:       1
+Spring Boot
+          Description:   Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run". We take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need very little Spring configuration.
+          Commits:       2
+TIPC: Cluster Communication Protocol
+          Description:   The Transparent Inter Process Communication protocol allows applications in a clustered computer environment to communicate quickly and reliably with other applications, regardless of their location within the cluster. (Details at http://tipc.sf.net.)
+          Commits:       1
+VDSM
+          Description:   The Vdsm service exposes an API for managing virtualization hosts running the KVM hypervisor technology. Vdsm manages and monitors the host's storage, memory and networks as well as virtual machine creation, other host administration tasks, statistics gathering, and log collection.
+          Commits:       42
+VI-TOolbox
+          Description:   Volterra-Wiener System Identification Toolbox. This tool lets the identification of nonlinear discrete causal systems that can be approximated with the Volterra-Wiener series.
+          Commits:       96
+Virtual Smart Card Architecture
+          Description:   The Virtual Smart Card Architecture provides software to emulate smart cards and a smart card reader. The virtual smart card is internally accessible as PC/SC reader and externally as USB CCID reader or through a contactless smart card reader.
+          Commits:       406
+Wget
+          Description:   GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.
+          Commits:       1
+XFS Filesystem
+          Description:   The XFS filesystem for the Linux kernel
+          Commits:       -1
+XML Security Library
+          Description:   XML Security Library is a C library based on LibXML2. The library supports major XML security standards:
+
+XML Signature
+XML Encryption
+Canonical XML (was included in LibXML2)
+Exclusive Canonical XML (was included in LibXML2)
+          Commits:       7
+Xca
+          Description:   This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys and CRLs. Everything that is needed for a CA is implemented. All CAs can sign sub-CAs recursively. These certificate chains are shown clearly. For an easy company-wide use there are customiseable templates that can be used for certificate or request generation. All crypto data is stored in a and endian-agnostic file format portable across operating systems.
+          Commits:       6
+ZenKernel_TUNA
+          Description:   Zen Kernel for Galaxy Nexus variants (toroplus/toro/maguro)
+          Commits:       32
+acclaim_kernel
+          Description:   None
+          Commits:       32
+alon-barlev-overlay
+          Description:   None
+          Commits:       39
+alonbl-misc
+          Description:   None
+          Commits:       5
+alonbl-util-misc
+          Description:   None
+          Commits:       2
+android-buglabs-kernel
+          Description:   android buglabs kernel
+          Commits:       32
+android-tegra-nv-2.6.39-rel-14r7
+          Description:   None
+          Commits:       32
+android-tegra-nv-3.1.10-rel-15r7
+          Description:   None
+          Commits:       32
+android_kernel_asus_grouper
+          Description:   None
+          Commits:       -1
+android_kernel_grouper
+          Description:   Linux 3.1 for Google Nexus 7
+          Commits:       32
+android_kernel_htc_qsd8k
+          Description:   linux 2.6.38 for htc qsd8k devices
+          Commits:       32
+android_kernel_lge_p940
+          Description:   LG P940/Prada 3.0  kernel repository
+          Commits:       32
+android_kernel_motorola_olympus
+          Description:   Android kernel for Motorola Atrix 4G
+          Commits:       32
+android_kernel_motorola_omap4-common
+          Description:   None
+          Commits:       32
+android_kernel_samsung
+          Description:   2.6.35 Kernel for Samsung Galaxy S series Phones
+          Commits:       32
+android_kernel_samsung_crespo
+          Description:   None
+          Commits:       32
+android_kernel_samsung_epicmtd
+          Description:   None
+          Commits:       32
+android_kernel_samsung_msm
+          Description:   None
+          Commits:       32
+android_kernel_samsung_wave
+          Description:   None
+          Commits:       32
+android_kernel_sony_msm8x60
+          Description:   None
+          Commits:       32
+api-sdk-java
+          Description:   SDK for integrating with the Smartling API. The Smartling API allows developers to upload language specific resource files and download the translations of those files for easy integration within their application.
+          Commits:       4
+apt-offline
+          Description:   Offline Package Manager for APT
+          Commits:       -1
+asciidoctor-offline-skeleton
+          Description:   None
+          Commits:       2
+ath
+          Description:   None
+          Commits:       -1
+aufs3-linux
+          Description:   None
+          Commits:       32
+aufs5-linux
+          Description:   Aufs with Linux kernel source tree
+          Commits:       -1
+avian2/unidecode
+          Description:   ASCII transliterations of Unicode text - GitHub mirror
+          Commits:       3
+bcachefs
+          Description:   Bcachefs is an advanced new filesystem for Linux, with an emphasis on reliability and robustness. It has a long list of features, completed or in progress:
+
+    Copy on write (COW) - like zfs or btrfs
+    Full data and metadata checksumming
+    Multiple devices, including replication and other types of RAID
+    Caching
+    Compression
+    Encryption
+    Snapshots
+    Scalable - has been tested to 50+ TB, will eventually scale far higher
+    Already working and stable, with a small community of users
+          Commits:       -1
+bl-linux-omap
+          Description:   Linux kernel support for Bug Labs BUGbase (OMAP3)
+          Commits:       32
+boot-digest
+          Description:   Digest boot partition for disk encryption integrity
+          Commits:       5
+bricked-mako
+          Description:   Bricked Kernel for the Nexus 4
+          Commits:       32
+candied-kernel
+          Description:   This kernel is created by using the official cyanogen kernel for LGE msm7x27(T) as base. Since I started there are lots of modifications implemented (e.g. kernel source updated to 2.6.35.14, backported drivers from later kernel sources). Take a look at the changelog for a detailed list of all changes.
+          Commits:       32
+ccyrowski's cm-kernel
+          Description:   CyanogenMod Linux Kernel
+          Commits:       32
+chumby-kernel
+          Description:   Up to date linux kernel port to chumby.
+          Commits:       -1
+chumby-linux
+          Description:   Merge of git clone http://opensource.freescale.com/pub/scm/imx/linux-2.6-imx.git and chumby sources from http://files.chumby.com/source/falconwing/build3454/linux-2.6.28.mx233-falconwing-1.0.7-053111.tgz
+          Commits:       31
+cifs
+          Description:   Common Internet File System (CIFS)
+          Commits:       -1
+defusedxml
+          Description:   The defusedxml package (defusedxml on PyPI) contains several Python-only workarounds and fixes for denial of service and other vulnerabilities in Python's XML libraries.
+          Commits:       -1
+dnf-plugins-extras
+          Description:   Community plugins for DNF
+          Commits:       1
+dreamkernel-gti9100
+          Description:   Android ICS / JB Kernel for Galaxy S2 (EXYNOS) Phones.
+          Commits:       32
+eCryptfs
+          Description:   eCryptfs is a POSIX-compliant enterprise-class stacked cryptographic filesystem for Linux. It is derived from Erez Zadok's Cryptfs, implemented through the FiST framework for generating stacked filesystems. eCryptfs extends Cryptfs to provide advanced key management and policy features. eCryptfs stores cryptographic metadata in the header of each file written, so that encrypted files can be copied between hosts; the file will be decryptable with the proper key, and there is no need to keep track of any additional information aside from what is already in the encrypted file itself. Think of eCryptfs as a sort of ``gnupgfs.''
+          Commits:       -1
+easy-rsa
+          Description:   This is a small RSA key management package, based on the openssl command line tool. While this tool is primary concerned with key management for the SSL VPN application space, it can also be used for building web certificates
+          Commits:       5
+engine_pkcs11
+          Description:   None
+          Commits:       24
+esp-idf
+          Description:   Espressif IoT Development Framework. Official development framework for ESP32.
+          Commits:       3
+firehol
+          Description:   None
+          Commits:       2
+funtoo's openrc
+          Description:   Funtoo branch of Roy Marples' OpenRC
+          Commits:       1
+g-cpan
+          Description:   generate and install CPAN modules using Gentoo Linux portage
+          Commits:       551
+genkernel-utils
+          Description:   Genkernel additions
+          Commits:       5
+gentoo openrc
+          Description:   The OpenRC init system
+          Commits:       1
+gerrit-action
+          Description:   None
+          Commits:       5
+gerrit-checks-mock
+          Description:   None
+          Commits:       11
+gerrit-code-review-plugin
+          Description:   Gerrit SCM plugin for Jenkins CI
+          Commits:       17
+gerrit-utils
+          Description:   None
+          Commits:       2
+gerrit_checks_mock_fetch_endpoint
+          Description:   None
+          Commits:       4
+gnupg-pkcs11
+          Description:   gnupg-pkcs11 is a project to implement a BSD-licensed smart-card daemon to enable the use of PKCS#11 tokens with GnuPG.
+          Commits:       211
+google-drive-migrator
+          Description:   Google Drive Migrator
+          Commits:       3
+hardkernel/linux
+          Description:   Linux kernel source tree
+          Commits:       32
+htc-m7
+          Description:   htc-m7 (aka HTC One ;) )
+          Commits:       32
+huawei-kernel-3.4
+          Description:   wip
+          Commits:       32
+iocp-proxy-server
+          Description:   Proxy Server based on IOCP
+          Commits:       6
+iprange
+          Description:   The fastest way to manage files with IPs, subnets and hostnames.
+
+why to use it over any other aggregate
+
+It is simpler than any other aggregate.
+It supports many input formats, all together in the same file.
+It is faster, actually a lot faster.
+Can reduce the subnets/prefixes to produce high-performing netfilter/iptables ipsets.
+Can compare files with IPs to find if they overlap and to what degree.
+Can find the IPs common to a set of files.
+Can exclude IPs (merge a set of files while excluding all IPs matched by another set of files).
+
+This tool is behind the scenes of http://iplists.firehol.org
+          Commits:       20
+jenkinsci/jenkins
+          Description:   A suite of utilities for bringing continous integration to your projects (not the other way around) with jenkins CI
+          Commits:       1
+joserfc
+          Description:   Implementations of JOSE RFCs in Python
+          Commits:       3
+jslogo
+          Description:   Logo in JavaScript
+          Commits:       7
+kata-containers
+          Description:   Kata Containers
+          Commits:       -1
+kbatsysfs
+          Description:   None
+          Commits:       2
+kde-overlay
+          Description:   mirror of Gentoo's kde overlay
+          Commits:       1
+kdesupport
+          Description:   None
+          Commits:       88
+kernel-MB860
+          Description:   kernel for Motorola Atrix 4G (aka MB860)
+          Commits:       32
+kernel-Nexus4
+          Description:   Nexus 4 custom kernel (mako)
+          Commits:       32
+kernel3NookTablet
+          Description:   This is adaptation of git://git.omapzoom.org/kernel/omap.git to Nook Tablet
+          Commits:       32
+kernel_mapphone_kexec
+          Description:   Motorola mapphone OMAP kernel for kexec
+          Commits:       32
+kernel_omap_otter-common
+          Description:   TI Kernel Code - Amazon Kindle Fire (otter)
+          Commits:       32
+kernel_samsung_gio2europa
+          Description:   None
+          Commits:       32
+kernel_tf201_stock
+          Description:   Closest match of nvidia kernel with asus kernel, with asus patches added as individual commits
+          Commits:       32
+kohsuke's hudson
+          Description:   Git-svn tracking of Hudson core plus its release branches.
+          Commits:       1
+laptop-mode-tools
+          Description:   Tool to save power on Linux
+          Commits:       4
+leanKernel-d2vzw
+          Description:   None
+          Commits:       32
+lge-kernel-gproj
+          Description:   LG G-proj (Optimus G variants)
+          Commits:       32
+lge-kernel-mako
+          Description:   Google Nexus 4's kernel
+          Commits:       32
+lge-kernel-msm7x27
+          Description:   Shared kernel for LGE msm7x27(T) devices
+          Commits:       32
+lge-kernel-p880
+          Description:   None
+          Commits:       32
+lge-mako-kernel
+          Description:   Kernel for Google/LG Nexus 4 (LG-E960)
+          Commits:       32
+libmagic
+          Description:   None
+          Commits:       -1
+libnfs
+          Description:   None
+          Commits:       1
+libp11
+          Description:   None
+          Commits:       37
+libpcap
+          Description:   The Packet Capture library provides a high level interface to packet capture systems. All packets on the network, even those destined for other hosts, are accessible through this mechanism.
+          Commits:       5
+libscrypt
+          Description:   A shared library that implements scrypt() functionality - a replacement for bcrypt()
+          Commits:       2
+libyang
+          Description:   YANG data modeling language library
+          Commits:       4
+lichee_linux-3.0
+          Description:   linux 3.0 sources from source drop
+          Commits:       32
+linux-2.6-sh-ms7724
+          Description:   Linux for MS7724 BSP
+          Commits:       32
+linux-2.6.36
+          Description:   None
+          Commits:       32
+linux-3.2
+          Description:   iamroot.org linux study x86 8th
+          Commits:       32
+linux-davinci-2.6
+          Description:   None
+          Commits:       31
+linux-digilent
+          Description:   Linux Repository for digilent boards
+          Commits:       32
+linux-emcraft
+          Description:   uClinux for Cortex-M3 and Cortex-M4
+          Commits:       32
+linux-imx
+          Description:   Linux kernel for GK802/HI802, i.MX6 based HDMI-dongle/tv-stick computers
+          Commits:       64
+linux-next
+          Description:   None
+          Commits:       -1
+linux-rt-devel
+          Description:   None
+          Commits:       32
+linux-sunxi
+          Description:   Linux source for Allwinner/Boxchip F20 (sun3i), A10 (sun4i) and A12/A13 (sun5i) SoCs.
+          Commits:       32
+linux-vtwm
+          Description:   VIA VT8500 and Wondermedia WM8xxx SoC Kernel Developerment - WARNING: The testing branch is rebased frequently. Do NOT rely on it being stable!!
+          Commits:       32
+linux-yocto
+          Description:   None
+          Commits:       -1
+linux-yocto-dev
+          Description:   None
+          Commits:       32
+linux.doc_trans_membarrier
+          Description:   Korean translation for linux
+          Commits:       32
+linux.gcma
+          Description:   linux tree for gcma(guaranteed contiguous memory allocator) public release
+          Commits:       32
+linux.personal
+          Description:   None
+          Commits:       -1
+linux_lg_jb
+          Description:   Matr1x kernel source for Nexus 4 - JB
+          Commits:       32
+linux_media
+          Description:   TBS6980, TBS6981, TBS6984 open source driver
+          Commits:       32
+linux_samsung_jb
+          Description:   Matr1x kernel source for Nexus S/Nexus S 4G - JB
+          Commits:       32
+linwizard-strtrk
+          Description:   The Linwizard project's kernel with customizations for the HTC StarTrek smartphone. (Unofficial)
+          Commits:       31
+liquidware_beagleboard_linux
+          Description:   Linux kernel containing drivers for add-on modular beagleboard hardware
+          Commits:       32
+lmonade
+          Description:   lmonade is a light-weight meta distribution of scientific software that can be installed without administrative rights on Unix based operating systems. It creates a uniform environment for development to simplify code sharing and distribution especially when complex dependencies are involved. This platform enables researchers to build on existing tools without fear of losing users to baffling installation instructions.
+          Commits:       122
+mainline-public
+          Description:   None
+          Commits:       32
+mbed-tls
+          Description:   mbed TLS (formerly known as PolarSSL) makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
+          Commits:       -1
+mbedtls
+          Description:   An open source, portable, easy to use, readable and flexible SSL library
+          Commits:       5
+merge-suspend
+          Description:   A Gerrit plugin to susppend all merges into git tree, handy when force push is to be done.
+          Commits:       7
+mibtec-linux-kernel
+          Description:   a branch of the Linux Kernel which gets maintained as vendor kernel
+          Commits:       96
+mini2440-kernel
+          Description:   git://repo.or.cz/linux-2.6/mini2440.git
+          Commits:       32
+mp3unicode
+          Description:   MP3Unicode is a command line utility to convert ID3 tags in mp3 files between different encodings.
+          Commits:       26
+msm-caf
+          Description:   CAF MSM Enablement Project Kernel Fork.
+          Commits:       32
+msm7x30-3.0.x-nAa
+          Description:   3.0.x kernel for the SEMC 2011 Xperia devices
+          Commits:       32
+msm7x30-3.4.x-nAa
+          Description:   3.4.x kernel for the SEMC 2011 Xperia devices
+          Commits:       32
+mycms1
+          Description:   None
+          Commits:       33
+myencfs
+          Description:   None
+          Commits:       2
+netdata
+          Description:   Real-time performance monitoring, in the greatest possible detail.
+
+Netdata is the fastest way to visualize metrics. It is a resource efficient, highly optimized system for collecting and visualizing any type of real-time timeseries data, from CPU usage, disk activity, Network and QoS traffic, SQL queries, API calls, web site visitors, etc.
+
+Netdata tries to visualize the truth of now, in its greatest detail, so that you can get insights of what is happening now and what just happened, on your systems and applications.
+
+For collecting data, it supports external plugins, even shell or node.js plugins. Any computer program, in any language, that can print a few lines of text on its standard output, can be a netdata data collector.
+          Commits:       34
+netifrc
+          Description:   Network Interface startup scripts (official mirror); bugs -> https://bugs.gentoo.org/
+          Commits:       7
+ns-3 Direct Code Execution
+          Description:   Direct Code Execution is a way to use existing code running on real system (i.e., currently Linux userspace applications and kernel network stack) on top of network simulators, such as ns-3.
+          Commits:       -1
+oVirt
+          Description:   oVirt is free, open-source virtualization management platform. It was founded by Red Hat as a community project on which Red Hat Virtualization is based. It allows centralized management of virtual machines, compute, storage and networking resources, from an easy to use web-based front-end with platform independent access. KVM on x86 64 architecture is the only hypervisor officially supported, but there is an ongoing effort to support PPC and ARM architectures in the future releases
+          Commits:       2383
+oVirt CI Jenkins
+          Description:   Code for jenkins.ovirt.org jobs.
+          Commits:       1
+oVirt releng-tools
+          Description:   Release Engineering tools for oVirt project
+          Commits:       6
+openChrome
+          Description:   A free and Open Source video driver for the VIA/S3G UniChrome, UniChrome Pro and Chrome9 graphics chipsets.
+          Commits:       -1
+openexec
+          Description:   None
+          Commits:       2
+openharmony
+          Description:   OpenHarmony is an open-source project launched by the OpenAtom Foundation, and serves as an open-source, distributed operating system (OS) that is intended to address all conceivable usage scenarios.
+Unlike traditional OSs, which are limited to a specific type of device, OpenHarmony provides distributed features that are compatible with a wide range of different devices. The first version supports devices with 128 KB to 128 MB of memory. Join us as we keep updating OpenHarmony versions.
+          Commits:       1
+openvpn-build
+          Description:   OpenVPN Build
+          Commits:       39
+openvpn-ipv6
+          Description:   OpenVPN over IPv6 --  http://github.com/jjo/openvpn-ipv6/downloads contains patches over releases
+          Commits:       1
+opinsys-linux
+          Description:   Opinsys kernel tree
+          Commits:       32
+otopi  oVirt Task Oriented Pluggable Installer/Implementation
+          Description:   Standalone plugin based installation framework to be used to setup system components. The plugin nature provides simplicity to add new installation functionality without the complexity of the state and transaction management.
+          Commits:       240
+ovirt-engine
+          Description:   oVirt manages virtual machines, storage and virtualized networks.
+          Commits:       1039
+ovirt-engine-extension-aaa-ldap
+          Description:   None
+          Commits:       -1
+ovirt-engine-extension-aaa-misc
+          Description:   None
+          Commits:       17
+ovirt-engine-extension-logger-log4j
+          Description:   None
+          Commits:       17
+ovirt-engine-kerbldap-migration
+          Description:   This script will copy users/groups from legacy domain into new extension api.
+          Commits:       60
+ovirt-host-deploy  oVirt host deploy tool
+          Description:   A tool to deploy ovirt hypervisor. Used by ovirt-engine when a new host is deployed, and can be used manually.
+          Commits:       182
+ovirt-image-uploader
+          Description:   Image Uploader tool for oVirt Engine
+          Commits:       -1
+ovirt-iso-uploader
+          Description:   ISO Uploader tool for oVirt Engine
+          Commits:       12
+ovirt-log-collector
+          Description:   Log Collector tool for oVirt Engine
+          Commits:       9
+ovirt-node
+          Description:   This is a mirror from gerrit.ovirt.org
+          Commits:       2
+ovirt-node-plugin-vdsm
+          Description:   Converts the generic oVirt Node image into an image customized use with oVirt Engine.
+          Commits:       2
+ovirt-overlay
+          Description:   ovirt.org Gentoo overlay *EXPERIMENTAL*
+          Commits:       179
+ovirt-vmconsole
+          Description:   None
+          Commits:       -1
+p11-kit
+          Description:   Provides a way to load and enumerate PKCS#11 modules. Provides a standard configuration setup for installing PKCS#11 modules in such a way that they're discoverable.
+
+Also solves problems with coordinating the use of PKCS#11 by different components or libraries living in the same process.
+          Commits:       2
+packstack
+          Description:   Install utility which uses Puppet modules to deploy OpenStack
+          Commits:       1
+pam_p11
+          Description:   Pam_p11 is a plugable authentication module (pam) package for using crpytographic tokens such as smart cards and usb crypto tokens for authentication.
+          Commits:       15
+pciutils
+          Description:   PCI utilities for many *nix systems and hopefully even Windows: lspci and setpci, for now.
+          Commits:       1
+pixel_linux
+          Description:   Chromebook Pixel Linux Kernel - Doing my best to keep Linux running on the Chromebook Pixel
+          Commits:       32
+pkcs11-data
+          Description:   PKCS#11 data object manipulator
+          Commits:       2
+pkcs11-dump
+          Description:   PKCS#11 token dump
+          Commits:       9
+pkcs11-helper
+          Description:   pkcs11-helper is a library that simplifies the interaction with PKCS#11 providers for end-user applications using a simple API and optional OpenSSL engine.
+          Commits:       314
+pkgconf
+          Description:   an API-driven pkg-config replacement
+          Commits:       4
+platform_external_libpcap
+          Description:   None
+          Commits:       5
+pyrsecurechannel
+          Description:   None
+          Commits:       7
+raspberrypi-linux
+          Description:   Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+          Commits:       -1
+roach2_linux
+          Description:   Latest PowerPC 3.4 rc3 Kernel
+          Commits:       32
+samsung-kernel-herring
+          Description:   USB Host mode for Nexus S
+          Commits:       32
+siyahkernel-sgs3
+          Description:   Kernel for I9300
+          Commits:       32
+siyahkernel3
+          Description:   ICS kernel for Samsung Galaxy S2
+          Commits:       32
+srt-shift
+          Description:   For those times when the subtitles are out of sync with the movie.
+          Commits:       6
+ssdeep
+          Description:   Recursive computing and matching of Context Triggered Piecewise Hashing (aka Fuzzy Hashing). Supports Windows, *nix, BSD, OS X, etc.
+          Commits:       1
+steamos_kernel
+          Description:   SteamOS kernel branches
+          Commits:       -1
+tap-windows
+          Description:   TAP-Windows - A kernel driver to provide virtual tap device functionality on Windows.
+          Commits:       48
+tcpdump
+          Description:   Tcpdump is a powerful packet analyzer and  prints  out  the  headers of packets on a network interface that match the boolean expression.
+          Commits:       -1
+tcplay
+          Description:   None
+          Commits:       8
+tegra-linux-3.0.y
+          Description:   forward ported tegra nvrm/nvodm kernel 3.0.8 (based on tegra-2.6.32)
+          Commits:       32
+teslamotors/linux
+          Description:   Linux sources
+          Commits:       32
+ti-omap-encore-kernel3
+          Description:   None
+          Commits:       32
+tpm-emulator
+          Description:   The famous tpm-emulator by Mario Strasser, previously hosted on BerliOs
+          Commits:       7
+tpm2-software
+          Description:   The source repository for the TPM (Trusted Platform Module) 2.0 Software Stack (TSS)
+          Commits:       9
+tpm2-tss
+          Description:   OSS implementation of the TCG TPM2 Software Stack (TSS2)
+          Commits:       3
+tuxonice-fastboot
+          Description:   Kernel patches for TuxOnIce
+          Commits:       32
+ubxlib
+          Description:   Portable C libraries which provide APIs to build applications with u-blox products and services. Delivered as add-on to existing microcontroller and RTOS SDKs.
+          Commits:       9
+unionfs
+          Description:   A stackable unification file system, which can appear to merge the contents of several directories (branches), while keeping their physical content separate.
+          Commits:       31
+uswsusp
+          Description:   The goal of the project is to create a tool that can handle the so called "suspend-to-both". Suspend to both means that prior putting the system in STR (suspend to ram) a snapshot of the running system is taken and stored on disk (as suspend to disk); if for any reason (e.g. battery depleted) the state store in the RAM is lost the user can resume from the disk without loosing data.
+          Commits:       -1
+util-linux
+          Description:   util-linux is a random collection of Linux utilities
+          Commits:       1
+v2.6.34-longterm
+          Description:   longtem 2.6.34 linux kernel
+          Commits:       32
+vdsm-jsonrpc-java
+          Description:   None
+          Commits:       1
+vhdl-style-guide
+          Description:   Style guide enforcement for VHDL
+          Commits:       27
+websockify
+          Description:   Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+          Commits:       6
+wget-lua
+          Description:   Wget-AT is a modern Wget with Lua hooks, Zstandard (+dictionary) WARC compression and URL-agnostic deduplication.
+          Commits:       1
+wl12xx_soldel_maintenance
+          Description:   TI - MCS solution delivery maintenance repository for wlan driver
+          Commits:       32
+wssh
+          Description:   SSH to WebSockets Bridge
+          Commits:       2
+xmlsec
+          Description:   XML Security Library
+          Commits:       7
+xtreamerdev's linux-mips
+          Description:   linux-mips kernel mirror
+          Commits:       32
+xxICSKernel
+          Description:   xxKernel based on ICS Opensource Update 4
+          Commits:       32
