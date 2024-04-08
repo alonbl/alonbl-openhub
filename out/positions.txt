@@ -287,7 +287,7 @@ OpenSSL
           Description:   OpenSSL is a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is also a general-purpose cryptography library.
 
 OpenSSL is licensed under an Apache-style license, which basically means that you are free to get and use it for commercial and non-commercial purposes subject to some simple license conditions.
-          Commits:       6
+          Commits:       3
 OpenStack
           Description:   Open source, open standards cloud. 
 
@@ -536,7 +536,7 @@ engine_pkcs11
           Commits:       24
 esp-idf
           Description:   Espressif IoT Development Framework. Official development framework for ESP32.
-          Commits:       3
+          Commits:       4
 firehol
           Description:   None
           Commits:       2
@@ -975,15 +975,12 @@ uswsusp
 util-linux
           Description:   util-linux is a random collection of Linux utilities
           Commits:       1
-v2.6.34-longterm
-          Description:   longtem 2.6.34 linux kernel
-          Commits:       32
 vdsm-jsonrpc-java
           Description:   None
           Commits:       1
 vhdl-style-guide
           Description:   Style guide enforcement for VHDL
-          Commits:       27
+          Commits:       28
 websockify
           Description:   Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
           Commits:       6

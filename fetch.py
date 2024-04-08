@@ -72,7 +72,10 @@ def main() -> None:
         pos1 = curlxml(mkurl("https://openhub.net/accounts/alonbl/positions.xml", api_key, page))
         if pos1["response"]["items_returned"] == 0:
             break
-        positions.extend(pos1["response"]["result"]["position"])
+        x = pos1["response"]["result"]["position"]
+        if isinstance(x, dict):
+            x = [x]
+        positions.extend(x)
 
     pathlib.Path("out").mkdir(exist_ok=True)
     with open("out/account.json", "w") as f:
