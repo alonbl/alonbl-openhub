@@ -263,6 +263,9 @@ OpenEZX
 
 It further tries to provide a 100% free software stack for those phones, especially a way to avoid any proprietary filesystem and/or device drivers. It also aims to provide a current (2.6.x) kernel with all required hardware support for the EZX phones.
           Commits:       -1
+OpenEmbedded Core
+          Description:   OpenEmbedded is a build framework for embedded Linux. OpenEmbedded offers a best-in-class cross-compile environment. It allows developers to create a complete Linux Distribution for embedded systems.
+          Commits:       1
 OpenPandora-Console
           Description:   The OpenPandora is a open source Linux based portable device.
 
@@ -394,6 +397,9 @@ Exclusive Canonical XML (was included in LibXML2)
 Xca
           Description:   This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys and CRLs. Everything that is needed for a CA is implemented. All CAs can sign sub-CAs recursively. These certificate chains are shown clearly. For an easy company-wide use there are customiseable templates that can be used for certificate or request generation. All crypto data is stored in a and endian-agnostic file format portable across operating systems.
           Commits:       6
+Yocto Project
+          Description:   The Yocto Project™ is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture.
+          Commits:       1
 ZenKernel_TUNA
           Description:   Zen Kernel for Galaxy Nexus variants (toroplus/toro/maguro)
           Commits:       32
@@ -462,7 +468,7 @@ apt-offline
           Commits:       -1
 asciidoctor-offline-skeleton
           Description:   None
-          Commits:       2
+          Commits:       6
 ath
           Description:   None
           Commits:       -1
@@ -770,6 +776,9 @@ mbedtls
 merge-suspend
           Description:   A Gerrit plugin to susppend all merges into git tree, handy when force push is to be done.
           Commits:       7
+meta-tegra
+          Description:   BSP layer for Nvidia Tegra
+          Commits:       1
 mibtec-linux-kernel
           Description:   a branch of the Linux Kernel which gets maintained as vendor kernel
           Commits:       96
@@ -821,6 +830,9 @@ oVirt releng-tools
 openChrome
           Description:   A free and Open Source video driver for the VIA/S3G UniChrome, UniChrome Pro and Chrome9 graphics chipsets.
           Commits:       64
+openembedded-core
+          Description:   The official Git repository is at https://git.openembedded.org/openembedded-core/.
+          Commits:       1
 openexec
           Description:   None
           Commits:       2
