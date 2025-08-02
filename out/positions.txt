@@ -263,6 +263,9 @@ OpenEZX
 
 It further tries to provide a 100% free software stack for those phones, especially a way to avoid any proprietary filesystem and/or device drivers. It also aims to provide a current (2.6.x) kernel with all required hardware support for the EZX phones.
           Commits:       -1
+OpenEmbedded
+          Description:   OpenEmbedded is a tool which allows developers to create a fully usable Linux base for various embedded systems. It has been designed to be able to handle different hardware architectures, support multiple releases for those architectures, and utilize tools for speeding up the process of recreating the base after changes have been made.
+          Commits:       1
 OpenEmbedded Core
           Description:   OpenEmbedded is a build framework for embedded Linux. OpenEmbedded offers a best-in-class cross-compile environment. It allows developers to create a complete Linux Distribution for embedded systems.
           Commits:       1
@@ -610,7 +613,7 @@ This tool is behind the scenes of http://iplists.firehol.org
           Commits:       20
 jackson-dataformats-text
           Description:   Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)
-          Commits:       1
+          Commits:       -1
 jenkinsci/jenkins
           Description:   A suite of utilities for bringing continous integration to your projects (not the other way around) with jenkins CI
           Commits:       1
@@ -707,6 +710,9 @@ linux-2.6.36
 linux-3.2
           Description:   iamroot.org linux study x86 8th
           Commits:       32
+linux-bsp
+          Description:   None
+          Commits:       32
 linux-davinci-2.6
           Description:   None
           Commits:       31
@@ -782,6 +788,9 @@ meta-tegra
 mibtec-linux-kernel
           Description:   a branch of the Linux Kernel which gets maintained as vendor kernel
           Commits:       96
+micropython-lib
+          Description:   Core Python libraries ported to MicroPython
+          Commits:       1
 mini2440-kernel
           Description:   git://repo.or.cz/linux-2.6/mini2440.git
           Commits:       32
@@ -928,7 +937,7 @@ pyrsecurechannel
           Commits:       7
 raspberrypi-linux
           Description:   Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
-          Commits:       32
+          Commits:       96
 roach2_linux
           Description:   Latest PowerPC 3.4 rc3 Kernel
           Commits:       32
