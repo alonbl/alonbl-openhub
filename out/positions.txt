@@ -580,10 +580,10 @@ gentoo openrc
           Commits:       1
 gerrit-action
           Description:   None
-          Commits:       5
+          Commits:       6
 gerrit-checks-mock
           Description:   None
-          Commits:       12
+          Commits:       14
 gerrit-code-review-plugin
           Description:   Gerrit SCM plugin for Jenkins CI
           Commits:       17
@@ -592,7 +592,7 @@ gerrit-utils
           Commits:       2
 gerrit_checks_mock_fetch_endpoint
           Description:   None
-          Commits:       10
+          Commits:       14
 git-portage
           Description:   None
           Commits:       1485
@@ -809,6 +809,9 @@ meta-tegra
 mibtec-linux-kernel
           Description:   a branch of the Linux Kernel which gets maintained as vendor kernel
           Commits:       96
+micropython
+          Description:   An implementation of Python 3.x on a microcontroller.
+          Commits:       2
 micropython-lib
           Description:   Core Python libraries ported to MicroPython
           Commits:       1
@@ -829,7 +832,7 @@ msm7x30-3.4.x-nAa
           Commits:       32
 mycms1
           Description:   None
-          Commits:       33
+          Commits:       36
 myencfs
           Description:   None
           Commits:       2
@@ -946,7 +949,7 @@ pkcs11-dump
           Commits:       9
 pkcs11-helper
           Description:   pkcs11-helper is a library that simplifies the interaction with PKCS#11 providers for end-user applications using a simple API and optional OpenSSL engine.
-          Commits:       315
+          Commits:       318
 pkgconf
           Description:   an API-driven pkg-config replacement
           Commits:       4
