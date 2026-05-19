@@ -24,7 +24,7 @@ Android on Intel Platforms
           Commits:       32
 Apache Maven 3
           Description:   Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
-          Commits:       -1
+          Commits:       4
 Apache Mina SSHD
           Description:   Apache SSHD is a 100% pure java library to support the SSH protocols on both the client and server side.
 This library is based on Apache MINA, a scalable and high performance asynchronous IO library.
@@ -43,7 +43,7 @@ CIP Linux
           Commits:       32
 CXF
           Description:   Apache CXF is an open source services framework. CXF helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS. These services can speak a variety of protocols such as SOAP, XML/HTTP, RESTful HTTP, or CORBA and work over a variety of transports such as HTTP, JMS or JBI.
-          Commits:       -1
+          Commits:       4
 Carrefour
           Description:   None
           Commits:       32
@@ -580,10 +580,10 @@ gentoo openrc
           Commits:       1
 gerrit-action
           Description:   None
-          Commits:       6
+          Commits:       7
 gerrit-checks-mock
           Description:   None
-          Commits:       14
+          Commits:       17
 gerrit-code-review-plugin
           Description:   Gerrit SCM plugin for Jenkins CI
           Commits:       17
@@ -805,7 +805,7 @@ merge-suspend
           Commits:       7
 meta-tegra
           Description:   BSP layer for Nvidia Tegra
-          Commits:       1
+          Commits:       2
 mibtec-linux-kernel
           Description:   a branch of the Linux Kernel which gets maintained as vendor kernel
           Commits:       96
@@ -872,7 +872,7 @@ openexec
 openharmony
           Description:   OpenHarmony is an open-source project launched by the OpenAtom Foundation, and serves as an open-source, distributed operating system (OS) that is intended to address all conceivable usage scenarios.
 Unlike traditional OSs, which are limited to a specific type of device, OpenHarmony provides distributed features that are compatible with a wide range of different devices. The first version supports devices with 128 KB to 128 MB of memory. Join us as we keep updating OpenHarmony versions.
-          Commits:       1
+          Commits:       -1
 openvpn-build
           Description:   OpenVPN Build
           Commits:       39
